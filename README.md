@@ -7,8 +7,9 @@
 
 
 
-![gambar1.png](Screenshot/1.png)
-![gambar2.png](Screenshot/2.png)
+![1](https://user-images.githubusercontent.com/117182720/199247391-e67cbea9-4479-4927-a239-123bbaa82156.png)
+![2022-11-01 (5)](https://user-images.githubusercontent.com/117182720/199248022-1c982761-9f6d-4a79-b4d9-2a5877dae0e0.png)
+
 Screenshot Latihan 1,2,dan 3
 # Latihan 1
 #     penggunaan END
@@ -32,5 +33,8 @@ Screenshot Latihan 1,2,dan 3
     Jika Anda memiliki string format yang sangat panjang yang tidak ingin Anda pisahkan, alangkah baiknya jika Anda bisa mereferensikan variabel yang akan diformat berdasarkan nama alih-alih berdasarkan posisi. Ini dapat dilakukan hanya dengan melewatkan dict dan menggunakan tanda kurung siku '[]' untuk mengakses kunci dari dict
     Ini juga bisa dilakukan dengan memberikan tabel sebagai argumen kata kunci keyword argument dengan notasi '**'.
     Ini sangat berguna dalam kombinasi dengan fungsi bawaan vars(), yang mengembalikan dictionary yang berisi semua variabel lokal.
-![gambar3.png](Screenshot/lat1.png)
-![gambar4.png](Screenshot/3.png)
+![2022-11-01 (3)](https://user-images.githubusercontent.com/117182720/199248261-b4a8a90a-830b-4f0d-b18c-f74ba672c9cb.png)
+![2022-11-01](https://user-images.githubusercontent.com/117182720/199248761-4f3b905e-97c8-47ae-ba5d-32ce1b5e94b7.png)
+![2022-11-01 (2)](https://user-images.githubusercontent.com/117182720/199249299-e9d408e7-45a1-4e80-934b-653101a3f35c.png)
+![2022-11-01 (1)](https://user-images.githubusercontent.com/117182720/199249329-c632770d-6811-472e-818e-516b4bdf2b92.png)
+
